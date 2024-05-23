@@ -1,3 +1,4 @@
+package edu.guilherme.segundasemana;
 public class MinhaClasse {
 public static void main(String[] args) {
     String BR = "Brasil";
